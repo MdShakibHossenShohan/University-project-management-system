@@ -1,2 +1,2 @@
 # University-project-management-system
-University project management system is a Web Application project, built with React and Spring-Boot and database PostgreSQL. Project where (Student, Faculty and Admin) 3 users can login using their respective email id &amp; password. 
+University project management system is a Web Application project, built with React and Spring-Boot and database PostgreSQL. Project where (Student, Faculty and Admin) 3 users can login using their respective email id & password. The student will choose the advisor for the project and can take all the benefits from him. Student can submit project of varsity defense and admin will approve all. Defense of the university will be very beneficial for the students with smooth user experience. 
